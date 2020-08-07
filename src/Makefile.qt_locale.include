@@ -1,0 +1,14 @@
+QT_TS = \
+  qt/locale/poriun_de.ts \
+  qt/locale/poriun_en.ts \
+  qt/locale/poriun_en_US.ts \
+  qt/locale/poriun_es.ts \
+  qt/locale/poriun_fr_FR.ts \
+  qt/locale/poriun_hr_HR.ts \
+  qt/locale/poriun_it.ts \
+  qt/locale/poriun_ko_KR.ts \
+  qt/locale/poriun_nl.ts \
+  qt/locale/poriun_pl.ts \
+  qt/locale/poriun_ru.ts \
+  qt/locale/poriun_tr.ts \
+  qt/locale/poriun_zh_CN.ts

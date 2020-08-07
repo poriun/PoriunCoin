@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Poriun Coin
+Comment=Poriun Coin QT test network
+GenericName=Poriun Digital Currency QT client testnet network
+Exec=poriun-core.qt-testnet %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/poriun_testnet.png
+MimeType=x-scheme-handler/bpr;
+Categories=X-Office;X-Finance;
+Keywords=internet;poriun;zbpr;tbpr;core;wallet;qt;testnet;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0

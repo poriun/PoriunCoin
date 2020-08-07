@@ -1,0 +1,6 @@
+usr/local/bin/poriun-qt usr/bin
+share/pixmaps/poriun32.xpm usr/share/pixmaps
+share/pixmaps/poriun16.xpm usr/share/pixmaps
+share/pixmaps/poriun128.png usr/share/pixmaps
+debian/poriun-qt.desktop usr/share/applications
+debian/poriun-qt.protocol usr/share/kde4/services/

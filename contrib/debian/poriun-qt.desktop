@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Poriun Coin
+Comment=Poriun P2P Cryptocurrency
+Comment[fr]=Poriun, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Poriun, eşten eşe kriptografik sanal para birimi
+Exec=poriun-qt %u
+Terminal=false
+Type=Application
+Icon=poriun128
+MimeType=x-scheme-handler/poriun;
+Categories=Office;Finance;
+StartupWMClass=Poriun-qt

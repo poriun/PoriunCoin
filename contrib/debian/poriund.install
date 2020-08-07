@@ -1,0 +1,3 @@
+usr/local/bin/poriund usr/bin
+usr/local/bin/poriun-cli usr/bin
+debian/examples/poriun.conf etc/poriun

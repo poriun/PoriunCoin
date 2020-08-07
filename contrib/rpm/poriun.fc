@@ -1,0 +1,8 @@
+/usr/bin/poriun-cli		--	gen_context(system_u:object_r:poriun_exec_t,s0)
+/usr/sbin/poriund		--	gen_context(system_u:object_r:poriun_exec_t,s0)
+/usr/lib(64)?/poriun/poriund		--	gen_context(system_u:object_r:poriun_exec_t,s0)
+
+/etc/poriun(/.*)?		gen_context(system_u:object_r:poriun_conf_t,s0)
+/var/lib/poriun(/.*)?		gen_context(system_u:object_r:poriun_var_lib_t,s0)
+
+(/var)?/run/poriund(/.*)?   gen_context(system_u:object_r:poriun_var_run_t,s0)
