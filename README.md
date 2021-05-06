@@ -1,4 +1,4 @@
-<a href="https://github.com/poriun/PoriunCoin/releases"><img src="https://i.ibb.co/54TK9sB/Logo-4.png" alt="Logo-4" border="0"></a>
+<a href="https://github.com/poriun/PoriunCoin/releases"><img src="https://i.ibb.co/6WKYcct/Poriun-logo-BPR.png" alt="Poriun-logo-BPR" border="0"></a>
 
 Poriun staging tree 1.0
 =======================
