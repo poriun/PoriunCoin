@@ -46,12 +46,3 @@ Anyone can operate a masternode and the objective is to further decentralize the
 Masternodes are paid by the network for the services they provide. As more masternodes are created, the duration between payments increases. Payment selection is always random due to the selection algorithm, but in the long term all masternode owners should receive similar payments. If a masternode stops providing services to the network for more than one hour, it is removed from the list until normal service resumes.
 
 These masternode servers hold a full copy of the blockchain, and thanks to the reward system, enough masternodes will always be available to provide the developers with a platform to quickly deploy any new decentralized feature. This is an incentivized system of distributed servers working around the clock to assure the network can scale more efficiently and deploy services more rapidly than a blockchain run entirely by unpaid volunteers.
-
-
-
-
-
-
-<a href='https://github.com/poriun/PoriunCoin/releases' target='_blank'>
-<img src='https://raw.githubusercontent.com/poriun/PoriunCoin/master/src/qt/res/icons/bpr.png'></img>
-</a>
